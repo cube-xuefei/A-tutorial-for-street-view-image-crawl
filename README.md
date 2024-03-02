@@ -71,7 +71,18 @@
 
 <img width="580" alt="image" src="https://github.com/cube-xuefei/A-tutorial-for-street-view-image-crawl/assets/111174136/5b4492a0-ceb8-4aa9-8573-3409a63ff620">        
 
-![image](https://github.com/cube-xuefei/A-tutorial-for-street-view-image-crawl/assets/111174136/7071b67c-9040-4fa8-8095-de823d25c4b6)   
+![image](https://github.com/cube-xuefei/A-tutorial-for-street-view-image-crawl/assets/111174136/7071b67c-9040-4fa8-8095-de823d25c4b6)       
+
+    
+![image](https://github.com/cube-xuefei/A-tutorial-for-street-view-image-crawl/assets/111174136/9f24a3b6-d904-486b-b641-99230d77bcec)    
+
+     click "generate features"    
+
+<img width="384" alt="image" src="https://github.com/cube-xuefei/A-tutorial-for-street-view-image-crawl/assets/111174136/7a455ee8-30d5-412a-a9c3-4f4b1ff30638">   
+
+
+
+
 
 
 
