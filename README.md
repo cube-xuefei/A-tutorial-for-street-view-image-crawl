@@ -69,7 +69,12 @@
 
     click "options" (note: if you cannot use Arcscan, select customize----extensions-----enable Arcscan)     
 
-<img width="580" alt="image" src="https://github.com/cube-xuefei/A-tutorial-for-street-view-image-crawl/assets/111174136/5b4492a0-ceb8-4aa9-8573-3409a63ff620">     
+<img width="580" alt="image" src="https://github.com/cube-xuefei/A-tutorial-for-street-view-image-crawl/assets/111174136/5b4492a0-ceb8-4aa9-8573-3409a63ff620">        
+
+![image](https://github.com/cube-xuefei/A-tutorial-for-street-view-image-crawl/assets/111174136/7071b67c-9040-4fa8-8095-de823d25c4b6)   
+
+
+
 
 
 
